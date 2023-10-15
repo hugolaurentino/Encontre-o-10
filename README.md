@@ -27,9 +27,10 @@ Usando o conceito do for uma das formas de repetição com o se (if)
 </p>
 
 ---
-<!-- <h1 align='center'>
+<h1 align='center'>
  <img alt='Readme' title='Readme' src='./assets/execucao.gif' />
-</h1> -->
+</h1>
+
 const numeros = [54, 22, 14, 87, 284];
 
 ---

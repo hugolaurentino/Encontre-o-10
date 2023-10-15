@@ -1,4 +1,4 @@
-const numeros = [54, 22, 14, 87, 284];
+const numeros = [54, 10, 22, 14, 87, 284];
 
 let existe = false;
 for (let índice = 0; índice < numeros.length; índice++) {
